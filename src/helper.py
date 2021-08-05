@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-def normalize_windows(win_data):
+def normalize_windows(win_data): 
     """ Normalize a window
     Input: Window Data
     Output: Normalized Window
