@@ -10,7 +10,7 @@ from keras.models import Sequential
 from keras.layers.convolutional import Conv1D
 from keras.layers.convolutional import MaxPooling1D
 import helper
-import time
+import time 
 from sklearn.metrics import mean_squared_error
 import numpy as np
 
